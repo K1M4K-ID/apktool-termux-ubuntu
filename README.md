@@ -3,7 +3,7 @@ Fix apktool termux ubuntu
 
 - langkah 1
 ```
-  rm /root/.local/share/apktool/framework/1.apk
+rm /root/.local/share/apktool/framework/1.apk
 ```
 
 - langkah 2
